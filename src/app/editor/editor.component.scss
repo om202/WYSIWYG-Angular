@@ -1,0 +1,39 @@
+#title-row {
+  // height: 64px;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  background-color: gray;
+}
+
+
+#document-title{
+  padding: 0px;
+  margin: 0px;
+  font-size: 1.2rem;
+}
+
+#navbar {
+  padding: 0.3rem !important;
+}
+
+#navbar-ul {
+  padding: 0px;
+  margin: 0px;
+}
+
+#navbar-ul {
+  list-style-type: none;
+  overflow: hidden;
+}
+
+#navbar-ul > li {
+  float: left;
+  display: block;
+  padding-right: 10px;
+  padding-left: 10px;
+  border-radius: 3px;
+}
+
+#navbar-ul> li:hover {
+  background-color: rgb(218, 220, 224);;
+}
